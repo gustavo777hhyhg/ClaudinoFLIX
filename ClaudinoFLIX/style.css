@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    color: white;
+}
+h2{
+    text-align: center;
+    font-size: 35px;
+}
+.filme{
+    text-align: center; 
+    
+}
+.cartaz{width: 200px;}
+.filme-todos{
+    display: grid;
+    grid-template-columns: 32% 32% 32% ;
+    grid-template-columns: 32% 32% 32%;
+}
+.containerbotao{
+    background-color: darkgreen;
+    color: black;
+    font-size: 22px;
+    border-radius: 7px;
+}
+.botao{
+    text-align: center;
+}
