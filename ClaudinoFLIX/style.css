@@ -1,6 +1,7 @@
 body{
     background-color: black;
     color: white;
+    font-family: Playfair;
 }
 h2{
     text-align: center;
@@ -24,4 +25,11 @@ h2{
 }
 .botao{
     text-align: center;
+}
+.informacao{
+    color: white;
+    font-size: 22px;
+}
+.imagem{
+    width: 40%;
 }
